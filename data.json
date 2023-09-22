@@ -119,7 +119,7 @@
         ]
       },
       {
-        "number": 3,
+        "number": 5,
         "subjects": [
           {"name": "CE3351 Structural Analysis I", "link": "https://example.com/subject2.1.pdf"},
           {"name": "CE3352 Soil Mechanics", "link": "https://example.com/subject2.2.pdf"},
@@ -129,7 +129,7 @@
         ]
       },
       {
-        "number": 3,
+        "number": 6,
         "subjects": [
           {"name": "CE3351 Structural Analysis I", "link": "https://example.com/subject2.1.pdf"},
           {"name": "CE3352 Soil Mechanics", "link": "https://example.com/subject2.2.pdf"},
@@ -139,7 +139,7 @@
         ]
       },
       {
-        "number": 3,
+        "number": 7,
         "subjects": [
           {"name": "CE3351 Structural Analysis I", "link": "https://example.com/subject2.1.pdf"},
           {"name": "CE3352 Soil Mechanics", "link": "https://example.com/subject2.2.pdf"},
@@ -149,7 +149,7 @@
         ]
       },
       {
-        "number": 3,
+        "number": 8,
         "subjects": [
           {"name": "CE3351 Structural Analysis I", "link": "https://example.com/subject2.1.pdf"},
           {"name": "CE3352 Soil Mechanics", "link": "https://example.com/subject2.2.pdf"},
