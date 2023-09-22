@@ -117,6 +117,46 @@
           {"name": "CE3454 Environmental Engineering", "link": "https://example.com/subject2.2.pdf"},
           {"name": "CE3491 Transportation Engineering", "link": "https://example.com/subject2.2.pdf"}
         ]
+      },
+      {
+        "number": 3,
+        "subjects": [
+          {"name": "CE3351 Structural Analysis I", "link": "https://example.com/subject2.1.pdf"},
+          {"name": "CE3352 Soil Mechanics", "link": "https://example.com/subject2.2.pdf"},
+          {"name": "CE3353 Fluid Mechanics", "link": "https://example.com/subject2.2.pdf"},
+          {"name": "CE3354 Engineering Geology", "link": "https://example.com/subject2.2.pdf"},
+          {"name": "CE3355 Concrete Technology", "link": "https://example.com/subject2.2.pdf"}
+        ]
+      },
+      {
+        "number": 3,
+        "subjects": [
+          {"name": "CE3351 Structural Analysis I", "link": "https://example.com/subject2.1.pdf"},
+          {"name": "CE3352 Soil Mechanics", "link": "https://example.com/subject2.2.pdf"},
+          {"name": "CE3353 Fluid Mechanics", "link": "https://example.com/subject2.2.pdf"},
+          {"name": "CE3354 Engineering Geology", "link": "https://example.com/subject2.2.pdf"},
+          {"name": "CE3355 Concrete Technology", "link": "https://example.com/subject2.2.pdf"}
+        ]
+      },
+      {
+        "number": 3,
+        "subjects": [
+          {"name": "CE3351 Structural Analysis I", "link": "https://example.com/subject2.1.pdf"},
+          {"name": "CE3352 Soil Mechanics", "link": "https://example.com/subject2.2.pdf"},
+          {"name": "CE3353 Fluid Mechanics", "link": "https://example.com/subject2.2.pdf"},
+          {"name": "CE3354 Engineering Geology", "link": "https://example.com/subject2.2.pdf"},
+          {"name": "CE3355 Concrete Technology", "link": "https://example.com/subject2.2.pdf"}
+        ]
+      },
+      {
+        "number": 3,
+        "subjects": [
+          {"name": "CE3351 Structural Analysis I", "link": "https://example.com/subject2.1.pdf"},
+          {"name": "CE3352 Soil Mechanics", "link": "https://example.com/subject2.2.pdf"},
+          {"name": "CE3353 Fluid Mechanics", "link": "https://example.com/subject2.2.pdf"},
+          {"name": "CE3354 Engineering Geology", "link": "https://example.com/subject2.2.pdf"},
+          {"name": "CE3355 Concrete Technology", "link": "https://example.com/subject2.2.pdf"}
+        ]
       }
     ]
   },
